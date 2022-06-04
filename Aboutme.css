@@ -1,0 +1,52 @@
+#body {
+  background-image: url("Photo.jpeg");
+}
+#photo{
+	position: absolute;
+	left: 46%;
+}
+#intro{
+	position: absolute;
+	top: 200px;
+	font-family: sans-serif;
+	font-size: 26px;
+	font-color: "Blue";
+}
+#Tech{
+	position: absolute;
+	top: 300px;
+	font-family: sans-serif;
+	font-size: 26px;
+	font-color: "Blue";
+}
+
+#Position{
+	position: absolute;
+	top: 500px;
+	font-family: sans-serif;
+	font-size: 26px;
+	font-color: "Blue";
+}
+#Key{
+	position: absolute;
+	top: 700px;
+	font-family: sans-serif;
+	font-size: 26px;
+	font-color: "Blue";
+}
+#Project{
+	position: absolute;
+	top: 950px;
+	font-family: sans-serif;
+	font-size: 26px;
+	font-color: "Blue";
+
+}
+#Thanks{
+	position: absolute;
+	top: 1170px;
+	left: 150px;
+	font-family: sans-serif;
+	font-size: 26px;
+	font-color: "Blue";
+}
